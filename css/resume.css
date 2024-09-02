@@ -91,6 +91,9 @@ section.resume-section {
   padding-bottom: 5rem !important; }
   section.resume-section .resume-item .resume-date {
     min-width: none; }
+    section.resume-section .resume-item .img-project {
+      max-width: 2rem; 
+      max-height: 2rem}
 
 @media (min-width: 768px) {
   section.resume-section {
